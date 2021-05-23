@@ -6,14 +6,3 @@ My name is Lucas Rodriguez. I am currently an undergraduate student at UC Davis 
 ## [NLP with Multi-Instance Learning -- Research](http://ayelrod.github.io/nlp-mil)
 
 
-
-```markdown
-Syntax highlighted code block
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
