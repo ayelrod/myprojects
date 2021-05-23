@@ -3,7 +3,7 @@ My name is Lucas Rodriguez. I am currently an undergraduate student at UC Davis 
 
 # Projects
 
-## [NLP with Multi-Instance Learning -- Research](./nlp-mil.md)
+## [NLP with Multi-Instance Learning -- Research](./myprojects/nlp-mil.md)
 
 
 
