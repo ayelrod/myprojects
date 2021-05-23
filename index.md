@@ -5,8 +5,8 @@ My name is Lucas Rodriguez. I am currently an undergraduate student at UC Davis 
 
 ## [NLP with Multi-Instance Learning -- Research](http://ayelrod.github.io/nlp-mil)
 
-## Frequent Colors Website
+## [Frequent Colors Website](http://ayelrod.github.io/freq-colors-projectpage)
 
-## @GiantsArticles - Twitter Bot
+## [@GiantsArticles - Twitter Bot](http://ayelrod.github.io/GiantsArticles)
 
 
